@@ -1,0 +1,10 @@
+C:\Users\Ivan\source\repos\Калькулятор1\Калькулятор1\bin\Debug\Калькулятор1.exe.config
+C:\Users\Ivan\source\repos\Калькулятор1\Калькулятор1\bin\Debug\Калькулятор1.exe
+C:\Users\Ivan\source\repos\Калькулятор1\Калькулятор1\bin\Debug\Калькулятор1.pdb
+C:\Users\Ivan\source\repos\Калькулятор1\Калькулятор1\obj\Debug\Калькулятор1.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Калькулятор1\Калькулятор1\obj\Debug\Калькулятор1.Form1.resources
+C:\Users\Ivan\source\repos\Калькулятор1\Калькулятор1\obj\Debug\Калькулятор1.Properties.Resources.resources
+C:\Users\Ivan\source\repos\Калькулятор1\Калькулятор1\obj\Debug\Калькулятор1.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\Калькулятор1\Калькулятор1\obj\Debug\Калькулятор1.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Калькулятор1\Калькулятор1\obj\Debug\Калькулятор1.exe
+C:\Users\Ivan\source\repos\Калькулятор1\Калькулятор1\obj\Debug\Калькулятор1.pdb
